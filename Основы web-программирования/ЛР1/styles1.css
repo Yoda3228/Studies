@@ -1,0 +1,64 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.global {
+    width: 1621px;
+    height: 1500px;
+    background-color: transparent;
+    margin: auto;
+}
+
+.basic_info {
+    width: 1821px;
+    height: 240px;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.about {
+    background-color: transparent;
+    width: 621px;
+    height: 162px;
+    float:left;
+    overflow: hidden;
+    margin-top: -7px;
+}
+
+.my_photo {
+    
+    overflow: hidden;
+    background-color: transparent;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    float: left;
+    
+}
+.my_photo:hover img {
+	transform: scale(1.10);
+}
+.my_photo img{
+    width: 300px;
+    height: 300px;
+    position: auto;
+    overflow: auto;
+}
+.private_info {
+    margin-top: 145px;
+    width: 621px;
+    height: 115px;
+    background-color: transparent;
+    position: absolute;
+    overflow: hidden;
+}
+.go_home {
+    background-color: transparent;
+    width: 1151px;
+    margin: auto;
+}

@@ -1,0 +1,40 @@
+<head>
+<style> body { background: url("https://wallpapercave.com/wp/wp2730867.gif") } </style>
+<link rel="stylesheet" href="styles.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+<title>Бригада pmi-b7606</title>
+</head>
+<body>
+<header>
+<h1>Бригада pmi-b7606</h1>
+<h2><br>Группа: ПМИ-72
+<br>Состав:
+<div class="authors">
+<figure class="user"> 
+<a href="leha.html" target="_blank">
+	<img src="leha.jpg" alt="Antonov Sergey" width="200" height="200">
+	<figcaption><p>Гольдеров Алексей<p></figcaption>
+	</a>
+</figure>
+<figure class="user">
+	<a href="Serega.html" target="_blank">
+	<img src="223.jpg" alt="Antonov Sergey" width="200" height="200">
+	<br><figcaption><p>Антонов Сергей<p></figcaption>
+	</a>
+</figure></div></h2></header>
+<br><br>
+<H3><br><b>Предметы</b></H3>
+<p><br><b>Компьюторные сети</b>
+<ul style = "list-style-type:disc">
+<li>Лабораторная работа №1 <a href="KS1.docx">Анализ структуры локальной сети ФПМИ</a> (22.09.2019)</li>
+<li>Лабораторная работа №2 <a href="#">Технология клиент-сервер: эхо-повтор</a></li>
+<li>Лабораторная работа №3 <a href="#">Разработка приложения интерактивной перепески</a></li>
+<li>Лабораторная работа №4 <a href="#">Создание Web-сервера</a></li>
+<li>Лабораторная работа №5 <a href="#">Анализ структуры кадра/фрейма технологии Ethernet</a></li>
+<li>Лабораторная работа №6 <a href="#">Анализ функционирования и диагностика IP-сетей</a></ul></li>
+<p><br><b>Основые web-программирования</b>
+<ul style = "list-style-type:disc">
+<li>Лабораторная работа №1 <a href="#">Ва</a></a></li>
+<li>Лабораторная работа №2 <a href="#">Верстка</a></a></li></p></ul>
+
+</body>

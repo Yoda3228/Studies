@@ -1,0 +1,2 @@
+size:	threads: 1	threads: 2	threads: 3	threads: 4
+2	-nan	

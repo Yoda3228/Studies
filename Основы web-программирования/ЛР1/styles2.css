@@ -1,0 +1,82 @@
+body {
+    background-color: white;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.global {
+    background-color: white;
+    margin: auto;
+    width: 890px;
+    height: 1894px;
+    overflow: hidden;
+}
+
+.titulnik {
+    background-color: transparent;
+    width: 900px;
+    height: 890px;
+    overflow: hidden;
+    text-align: center;
+    border-color: black;
+    border-bottom: 2px solid;
+}
+
+.titulnik p {
+    font-size: 20px;
+}
+
+.group_info {
+    background-color: transparent;
+    overflow: hidden;
+    text-align: left;
+    width: 670px;
+    margin: auto;
+}
+
+.group_info img {
+    float: left;
+    margin: auto;
+}
+
+.group_info p {
+    margin-top: 55px;
+}
+
+.nsk2019 {
+    background-color: transparent;
+    width: 150px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.hod_raboty {
+    background-color: transparent;
+    margin: auto;
+    width: 890px;
+    height: 1000px;
+    border-color: black;
+    border-bottom: 2px solid;
+}
+
+.hod_raboty p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.hod_raboty H3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.go_back {
+    background-color: transparent;
+    width: 140px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.go_back p {
+    font-size: 20px;
+}

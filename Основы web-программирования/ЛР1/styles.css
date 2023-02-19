@@ -1,0 +1,64 @@
+body {
+
+	font-family: 'Montserrat', sans-serif;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}		
+h1,h2 {
+	text-align: center;
+	min-width: 560px;
+}
+.spisok {
+    width: 500px; 
+    background: transparent;
+    padding: 0px;
+    padding-right: 0px; 
+    padding-left: 0px;
+    border: none; 
+    position: relative; 
+}
+
+.spisok p {
+    margin-top: 0%;
+    background-color: transparent;
+    padding-top: 0%;
+    padding-left: 4%;
+}
+
+.spisok H3 {
+    padding: 0px;
+    background-color: transparent;
+    margin-bottom: 0%;
+}
+.name
+{
+	text-align: center
+}
+.user:hover img {
+	transform: scale(1.10);
+}
+
+.user figcaption {
+	font-size: 18px;
+	color: black;
+	text-align: center;
+}
+.user:hover p
+{
+	transform: translate(0%, 25px) scale(1);
+}
+.authors {
+	float: right;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	min-width: 560px;
+	
+}
+
+.authors .user img {
+	float: right;
+	border-radius: 30%;
+}
+

@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Отчет ЛР2</title>
+    <link rel="stylesheet" href="http://fpm2.ami.nstu.ru/~pmi-b7609/web_prog/LR2.css">
+</head>
+
+<body> 
+    <div class="global">
+        <div class="titulnik">
+            <H3>
+                Министерство науки и высшего образования <br>
+                Российской Федерации  <br>
+                Федеральное государственное бюджетное <br>
+                образовательное учреждение высшего образования <br>
+                «Новосибирский государственный технический университет» <br>
+            </H3>
+            <img src="http://fpm2.ami.nstu.ru/~pmi-b7609/web_prog/LR2_img/logo.png" alt="логотип"> 
+            <p>
+                Кафедра Теоретической и прикладной информатики <br> <br>
+                Лабораторная работа № 2 <br> 
+                по дисциплине «Основы web-программирования» <br>
+                "Верстка html-страниц" </br>
+            </p>
+            <div class="group_info">
+                <img src="http://fpm2.ami.nstu.ru/~pmi-b7609/web_prog/LR2_img/fpmi_logo.png" alt="ФПМИ лого" >
+                <p>
+                    Факультет: ПМИ <br>
+                    Группа: ПМИ-72 <br>
+                    Бригада: 2 <br>
+                    Студенты: Астапов Алексей, Ауст Дарья <br>
+                    Преподаватель: Цыгулин Алексей Александрович <br>
+                </p>
+            </div>
+            <div class="nsk2019">
+                <p>
+                    Новосибирск <br>
+                    2019 <br> 
+                </p>
+            </div>
+        </div>
+        <div class="hod_raboty">
+            <H3> Цель работы: </H3>
+            <p> Освоить основные принципы верстки html-страниц. Сверстать страницу о себе, а так же отчет по лабораторной работе</p>
+            <H3> Ход работы: </H3>
+            <p> 1) Основная структура html-страницы </p>
+            <img src="http://fpm2.ami.nstu.ru/~pmi-b7609/web_prog/LR2_img/html_struct.png" alt="структура html">
+            <p> 2) Страница о себе <br>
+                2.1) Раз
+                </p>
+            <img src="http://fpm2.ami.nstu.ru/~pmi-b7609/web_prog/LR2_img/Aleksey.png" alt="Алексей">
+            <p> 2.2) Два </p>
+            <img src="http://fpm2.ami.nstu.ru/~pmi-b7609/web_prog/LR2_img/Darya.png" alt="Дарья">
+        </div>
+    </div>
+    <div class="go_back">
+            <p> <a href="http://fpm2.ami.nstu.ru/~pmi-b7609/web_prog/web_prog.html"> Вернуться назад  </a> </p>
+    </div>
+</body>    
+
+</html>
